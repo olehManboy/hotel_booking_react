@@ -8,10 +8,6 @@
 
                     </> HAPPY DEVELOPING 🤣 </>
 
-<!-- project link -->
-
-[beach-resort]: https://mukul-breach-resort-project.netlify.app/
-
 - Used skills:
 
 react reactjs hooks context
