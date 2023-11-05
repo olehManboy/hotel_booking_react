@@ -12,9 +12,8 @@ export default function Footer() {
         <a
           target="_blank"
           rel="noreferrer"
-          href="https://www.facebook.com/SamiurRahmanMukul"
         >
-          Samiur Rahman Mukul
+          Brandon Isphording
         </a>
       </p>
     </footer>
